@@ -1,0 +1,4 @@
+selenium==4.20.0
+SkPy==0.10.7
+yagmail==0.15.293
+python-dotenv==1.0.1
